@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle.label            "Akun Chat Wizard">
+
+<!ENTITY accountProtocolTitle.label   "Jaringan Chat">
+<!ENTITY accountProtocolInfo.label    "Pilih jaringan dari akun chat anda.">
+<!ENTITY accountProtocolField.label   "Jaringan:">
+<!ENTITY accountProtocolGetMore.label "Lebih lanjut…">
+
+<!ENTITY accountUsernameTitle.label   "Username">
+<!ENTITY accountUsernameDuplicate.label "Akun ini telah terkonfigurasi!">
+
+<!ENTITY accountPasswordTitle.label   "Password">
+<!ENTITY accountPasswordInfo.label    "Masukkan password anda pada kotak dibawah ini:">
+<!ENTITY accountPasswordField.label   "Password:">
+<!ENTITY accountPasswordManager.label "Password yang dimasukkan akan disimpan dalam Password Manager. Kosongkan kotak bila anda ingin memasukkan password setiap akun tersambung.">
+
+<!ENTITY accountAdvancedTitle.label   "Opsi Lebih Lanjut">
+<!ENTITY accountAdvancedInfo.label    "Bebas untuk melewati tahap ini apabila anda menginginkannya.">
+<!ENTITY accountAdvanced.newMailNotification.label   "Beritahukan pada Email Baru">
+<!ENTITY accountAliasGroupbox.caption "Alias Lokal">
+<!ENTITY accountAliasField.label      "Alias:">
+<!ENTITY accountAliasInfo.label       "Hanya akan ditampilkan dalam percakapan saat anda berbicara, tidak akan diketahui oleh remote contacts.">
+<!ENTITY accountProxySettings.caption "Pengaturan Proxy">
+<!ENTITY accountProxySettings.change.label     "Ubah…">
+<!ENTITY accountProxySettings.change.accessKey "C">
+
+<!ENTITY accountSummaryTitle.label   "Ringkasan">
+<!ENTITY accountSummaryInfo.label    "Ringkasan dari informasi yang anda masukkan ditampilkan seperti dibawah ini. Periksa sebelum akun dibuat.">
+<!ENTITY accountSummary.connectNow.label "Menyambungkan akun.">

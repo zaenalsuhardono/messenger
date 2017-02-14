@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Isi Email">
+
+<!ENTITY acceptRemoteContent.label "Izinkan remote konten pada pesan">
+<!ENTITY acceptRemoteContent.accesskey "m">
+<!ENTITY remoteContentExceptions.label "Pengecualian…">
+<!ENTITY remoteContentExceptions.accesskey "x">
+<!ENTITY acceptRemoteContentInfo.label "Pelajari selengkapnya tentang masalah privasi dari remote konten">
+
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Isi Web">
+
+<!ENTITY keepHistory.label "Ingat Situs Web dan tautan yang telah dikunjungi">
+<!ENTITY keepHistory.accesskey "R">
+<!ENTITY acceptCookies.label "Terima cookie dari situs">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Terima cookie pihak ketiga:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "Selalu">
+<!ENTITY acceptThirdParty.never.label "Tidak Pernah">
+<!ENTITY acceptThirdParty.visited.label "Dari yang sudah dikunjungi">
+<!ENTITY keepUntil.label "Simpan hingga:">
+<!ENTITY keepUntil.accesskey "K">
+<!ENTITY expire.label "berakhir">
+<!ENTITY close.label "Tutup &brandShortName;">
+<!ENTITY askEachTime.label "Tanyakan setiap waktu">
+<!ENTITY cookieExceptions.label "Pengecualian…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Tampilkan Cookie…">
+<!ENTITY showCookies.accesskey "S">
+
+<!ENTITY dntTrackingNotOkay.label2 "Beritahu situs yang tidak ingin dilacak">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY doNotTrackInfo.label "Pelajari selengkapnya tentang situs yang tidak dilacak">

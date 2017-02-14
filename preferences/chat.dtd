@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  startupAction.label         "Saat &brandShortName; dimulai:">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "Biarkan akun ngobrol tetap offline">
+<!ENTITY  startupConnectAuto.label    "Sambungkan akun ngobrol secara otomatis">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Biarkan kontak saya mengetahui bawah saya sedang diam setelah">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "menit tanpa aktivitas">
+
+<!ENTITY  andSetStatusToAway.label      "dan setel status saya ke Tidak Ada Di Tempat dengan pesan status:">
+<!ENTITY  andSetStatusToAway.accesskey  "A">
+
+<!ENTITY  sendTyping.label              "Kirimkan pemberitahuan sedang mengetik dalam percakapan">
+<!ENTITY  sendTyping.accesskey          "t">
+
+<!ENTITY  chatNotifications.label             "Ketika pesan diarahkan kepada Anda sampai:">
+<!ENTITY  desktopChatNotifications.label      "Tampilkan pemberitahuan:">
+<!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  completeNotification.label          "dengan nama pengirim dan pratinjau pesan">
+<!ENTITY  buddyInfoOnly.label                 "dengan nama pengirim saja">
+<!ENTITY  dummyNotification.label             "tanpa informasi apapun">
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "Mainkan suara">
+<!ENTITY  play.label                          "Mainkan">
+<!ENTITY  play.accesskey                      "P">
+<!ENTITY  systemSound.label                   "Untuk email baru gunakan suara standar">
+<!ENTITY  systemSound.accesskey               "D">
+<!ENTITY  customsound.label                   "Gunakan berkas suara berikut">
+<!ENTITY  customsound.accesskey               "U">
+<!ENTITY  browse.label                        "Ambil…">
+<!ENTITY  browse.accesskey                    "B">
+

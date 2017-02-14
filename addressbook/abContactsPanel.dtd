@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY propertiesMenu.label               "Properti">
+<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Properti Buku Alamat">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "Properti Kontak">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Properti Daftar Kontak">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
+
+<!ENTITY addressbookPicker.label            "Buku Alamat:">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchContacts.label               "Pencarian Kontak:">
+<!ENTITY searchContacts.accesskey           "n">
+<!ENTITY SearchNameOrEmail.label            "Nama atau Email">
+
+<!ENTITY addtoToFieldMenu.label             "Tambahkan Kepada">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoCcFieldMenu.label             "Tambahkan Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.label            "Tambahkan Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY deleteAddrBookCard.label           "Hapus">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
+<!ENTITY propertiesContext.label            "Properti">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "Properti">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "Edit Kontak">
+<!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.label       "Edit Daftar">
+<!ENTITY editMailingListContext.accesskey   "E">
+
+<!ENTITY toButton.label                     "Tambahkan Kepada:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Tambahkan Cc:">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Tambahkan Bcc:">
+<!ENTITY bccButton.accesskey                "B">

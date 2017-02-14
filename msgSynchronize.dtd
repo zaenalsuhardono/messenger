@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Unduh dan Sinkronkan Pesan">
+<!ENTITY MsgSelect.label "Item untuk Penggunaan Offline">
+<!ENTITY MsgSyncDesc.label "Jika Anda telah memilih folder email atau newsgroup untuk penggunaan offline, Anda dapat mengunduh dan/atau mensinkronkannya sekarang. Jika tidak, gunakan tombol &quot;Pilih&quot; untuk memilih folder dan newsgroup untuk penggunaan offline.">
+<!ENTITY MsgSyncDirections.label "Unduh dan/atau sinkronkan item berikut:">
+<!ENTITY syncTypeMail.label "Pesan email">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "Pesan newsgroup">
+<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY sendMessage.label "Kirim pesan yang belum terkirim">
+<!ENTITY sendMessage.accesskey "S">
+<!ENTITY workOffline.label "Aktifkan mode offline setelah proses mengunduh dan/atau sinkronisasi selesai.">
+<!ENTITY workOffline.accesskey "W">
+<!ENTITY selectButton.label "Pilih…">
+<!ENTITY selectButton.accesskey "E">
+<!ENTITY MsgSelectDesc.label "Pilih folder email dan newsgroup untuk penggunaan offline.">
+<!ENTITY MsgSelectInd.label "Unduh">
+<!ENTITY MsgSelectItems.label "Folder and Newsgroup">

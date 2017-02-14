@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialogTitle                  "Hapus Akun dan Data">
+<!ENTITY removeButton.label           "Hapus">
+<!ENTITY removeButton.accesskey       "R">
+<!ENTITY removeAccount.label          "Hapus informasi akun">
+<!ENTITY removeAccount.accesskey      "a">
+<!ENTITY removeAccount.desc           "Hapus hanya informasi yang diketahui oleh &brandShortName; pada akun ini. Tidak akan berpengaruh kepada akun maupun server.">
+<!ENTITY removeData.label             "Hapus data pesan">
+<!ENTITY removeData.accesskey         "d">
+<!ENTITY removeDataLocalAccount.desc  "Menghapus semua pesan, folder dan filter yang dikaitkan dengan akun ini dari disk lokal Anda. Hal ini tidak mempengaruhi beberapa pesan yang mungkin masih disimpan di server. Jangan memilih ini jika Anda berencana untuk mengarsipkan data lokal atau menggunakannya kembali dalam &brandShortName; di kemudian hari.">
+<!ENTITY removeDataServerAccount.desc "Menghapus semua pesan, folder dan filter yang dikaitkan dengan akun ini dari disk lokal Anda. Pesan dan folder Anda masih disimpan di server.">
+<!ENTITY showData.label               "Tampilkan lokasi data">
+<!ENTITY showData.accesskey           "S">
+<!ENTITY progressPending              "Hapus data yang dipilih…">
+<!ENTITY progressSuccess              "Penghapusan sukses.">
+<!ENTITY progressFailure              "Penghapusan gagal.">

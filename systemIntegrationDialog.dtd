@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY systemIntegration.title  "Integrasi dengan Sistem">
+<!ENTITY acceptIntegration.label  "Atur sebagai Default">
+<!ENTITY cancelIntegration.label  "Lewati Integrasi">
+<!ENTITY cancelIntegration2.label  "Batal">
+<!ENTITY defaultClient.intro  "Gunakan &brandShortName; sebagai program klien untuk:">
+
+<!ENTITY email.label "EMail">
+<!ENTITY newsgroups.label "Newsgroups">
+<!ENTITY feeds.label "Feed">
+
+<!ENTITY unsetDefault.tooltip "Tidak dimungkinkan untuk tidak mengatur &brandShortName; sebagai default klien dalam &brandShortName;. Untuk membuat aplikasi lain default Anda harus menggunakan dialog 'Atur sebagai Default'.">
+
+<!ENTITY checkOnStartup.label "Periksa selalu saat memulai &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "A">
+
+<!ENTITY searchIntegration.label "Izinkan &searchIntegration.engineName; untuk mencari pesan">
+<!ENTITY searchIntegration.accesskey "S">

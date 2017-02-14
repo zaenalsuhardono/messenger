@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemJunk.label          "Junk">
+<!ENTITY itemPhishing.label      "Penipuan Email">
+<!ENTITY itemPasswords.label     "Password">
+<!ENTITY itemAntiVirus.label     "Antivirus">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Atur pengaturan email junk default. Pengaturan email junk masing-masing akun dapat diatur pada Pengaturan Akun.">
+<!ENTITY manualMark.label "Saat menandai pesan sebagai pesan junk:">
+<!ENTITY manualMark.accesskey "W">
+<!ENTITY manualMarkModeMove.label "Pindahkan ke folder &quot;Junk&quot; akun">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Hapus pesan">
+<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY markAsReadOnSpam.label "Tandai sudah dibaca pada pesan yang ditandai sebagai Junk">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableAdaptiveJunkLogging.label "Aktifkan logging filter junk adaptif">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
+<!ENTITY openJunkLog.label "Tampilkan log">
+<!ENTITY openJunkLog.accesskey "S">
+<!ENTITY resetTrainingData.label "Setel Ulang Data Training">
+<!ENTITY resetTrainingData.accesskey "R">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; dapat menganalisis pesan yang mungkin berisi penipuan (scam) yang menggunakan teknik-teknik yang umum untuk menipu Anda.">
+<!ENTITY enablePhishingDetector1.label    "Beritahu jika pesan yang sedang dibaca adalah tersangka penipuan lewat email">
+<!ENTITY enablePhishingDetector1.accesskey  "T">
+<!ENTITY useDownloadedList.label "Gunakan daftar tersangka penipuan email yang diunduh dari Internet">
+<!ENTITY useDownloadedList.accesskey "U">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "&brandShortName; dapat menyimpan informasi sandi untuk semua akun Anda sehingga Anda tidak perlu mengetikkan ulang informasi log-masuk Anda berkali-kali.">
+<!ENTITY useMasterPassword.label        "Gunakan Sandi Utama">
+<!ENTITY useMasterPassword.accesskey    "U">
+<!ENTITY masterPassword.intro           "Jika diatur Sandi Utama melindungi semua sandi Anda - tetapi Anda harus mengetikkannya sekali dalam satu sesi.">
+<!ENTITY changeMasterPassword.label     "Ubah Sandi Utama…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label           "Password Tersimpan…">
+<!ENTITY savedPasswords.accesskey       "S">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; dapat memudahkan antivirus untuk menganalisis virus pada email masuk  sebelum disimpan secara lokal.">
+<!ENTITY antiVirus.label      "Izinkan antivirus klien mengkarantika pesan yang masuk">
+<!ENTITY antiVirus.accesskey  "A">
+

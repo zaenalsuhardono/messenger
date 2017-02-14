@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY offlineDialog.title "Pengaturan Offline">
+
+<!ENTITY checkAutoDetect.label "Otomatis deteksi ketika online">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Keadaan manual ketika memulai:">
+<!ENTITY radioRememberPrevState.label "Ingat keadaan online sebelumnya">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskState.label "Tanyakan untuk online">
+<!ENTITY radioAskState.accesskey "k">
+<!ENTITY radioAlwaysOnlineState.label "Online">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Offline">
+<!ENTITY radioAlwaysOffline.accesskey "f">
+
+<!ENTITY textGoingOnline "Kirim pesan belum terkirim saat mulai mode daring?">
+<!ENTITY radioAutoSend.label "Ya">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend.label "Tidak">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent.label "Tanyakan saya">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Unduh pesan untuk penggunaan offline saat akan pindah ke mode offline?">
+<!ENTITY radioAutoDownload.label "Ya">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload.label "Tidak">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload.label "Tanyakan saya">
+<!ENTITY radioAskDownload.accesskey "a">

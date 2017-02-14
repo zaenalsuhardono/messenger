@@ -1,0 +1,107 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label       "Utama">
+<!ENTITY dataChoicesTab.label    "Pilihan Data">
+<!ENTITY itemUpdate.label        "Pemutakhiran">
+<!ENTITY itemNetworking.label    "Jaringan &amp; Ruang Disk">
+<!ENTITY itemCertificates.label  "Sertifikat">
+
+<!-- General Settings -->
+<!ENTITY enableGlodaSearch.label       "Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan">
+<!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY allowHWAccel.label            "Gunakan percepatan perangkat keras apabila tersedia">
+<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Tipe penyimpanan pesan untuk akun baru:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore2.label              "Berkas per folder (mbox)">
+<!ENTITY maildirStore.label            "Berkas per message (maildir)">
+
+<!ENTITY scrolling.label               "Pergeseran">
+<!ENTITY useAutoScroll.label           "Gunakan Pergeseran Otomatis">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Gunakan Pergeseran Halus">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
+<!ENTITY systemIntegration.label       "Integrasi dengan Sistem">
+<!ENTITY alwaysCheckDefault.label      "Periksa apakah &brandShortName; adalah pembaca email default ketika memulai">
+<!ENTITY alwaysCheckDefault.accesskey  "A">
+<!ENTITY searchIntegration.label       "Izinkan &searchIntegration.engineName; untuk pencarian pesan">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY checkDefaultsNow.label        "Periksa Sekarang…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
+<!ENTITY configEditDesc.label          "Konfigurasi Canggih">
+<!ENTITY configEdit.label              "Penyunting Konfigurasi…">
+<!ENTITY configEdit.accesskey          "C">
+<!ENTITY returnReceiptsInfo.label      "Mengatur penanganan tanda konfirmasi diterima (return receipt) oleh &brandShortName;">
+<!ENTITY showReturnReceipts.label      "Tanda Konfirmasi Diterima…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Berbagi kinerja, penggunaan, perangkat keras dan penyesuaian data tentang penggunaan email klien anda terhadap &vendorShortName; untuk membantu kami membuat &brandShortName; menjadi lebih baik.">
+<!ENTITY enableTelemetry.label           "Izinkan Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Palajari selengkapnya">
+
+<!ENTITY crashReporterSection.label      "Pelaporan Galat">
+<!ENTITY crashReporterDesc.label         "&brandShortName; melaporkan apabila terjadi galat untuk membantu &vendorShortName; jadikan email klien anda lebih stabil dan aman.">
+<!ENTITY enableCrashReporter.label       "Izinkan Pelaporan Galat">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Palajari lebih lanjut">
+
+<!-- Update -->
+<!ENTITY updateApp.label                 "&brandShortName; pemutakhiran:">
+<!ENTITY updateAuto.label                "Otomatis install pemutakhiran (disarankan: keamanan ditingkatkan)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Periksa untuk pemutakhiran, Tetapi biarkan Saya memilih untuk install atau tidak">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Tidak pernah memeriksa untuk pemutakhiran (tidak disarankan: risiko keamanan)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateHistory.label             "Tampilkan Riwayat Pemutakhiran">
+<!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY useService.label                "Gunakan layanan background untuk menginstal pemutakhiran">
+<!ENTITY useService.accesskey            "b">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Pengaturan…">
+<!ENTITY showSettings.accesskey        "S">
+<!ENTITY proxiesConfigure.label        "Atur cara &brandShortName; tersambung ke Internet">
+<!ENTITY connectionsInfo.caption       "Sambungan">
+<!ENTITY offlineInfo.caption           "Offline">
+<!ENTITY offlineInfo.label             "Atur pengaturan offline">
+<!ENTITY showOffline.label             "Offline…">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace                       "Ruang Penyimpanan">
+<!ENTITY offlineCompactFolders.label     "Padukan semua folder untuk lebih menghemat">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB dalam jumlah total">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Gunakan hingga">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB dari ruang untuk cache">
+<!ENTITY clearCacheNow.label             "Bersihkan sekarang">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "Ketika server meminta sertifikat pribadi saya:">
+<!ENTITY certs.auto                      "Pilih satu secara otomatis">
+<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.ask                       "Tanyakan selalu">
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "Permintaan  responden server OCSP untuk mengecek validitas sertifikat">
+<!ENTITY enableOCSP.accesskey            "Q">
+
+<!ENTITY manageCertificates.label "Kelola Sertifikat">
+<!ENTITY manageCertificates.accesskey "M">
+<!ENTITY viewSecurityDevices.label "Perangkat Keamanan">
+<!ENTITY viewSecurityDevices.accesskey "D">

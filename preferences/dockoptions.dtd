@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title               "Pilihan ikon aplikasi">
+<!ENTITY window.macWidth                       "35em">
+
+<!ENTITY bounceSystemDockIcon.label            "Aktifkan ikon aplikasi saat ada pesan baru">
+<!ENTITY bounceSystemDockIcon.accesskey        "i">
+<!ENTITY newMessagesCountDock.label            "Hitung pesan baru">
+<!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY showAllUnreadMessagesCount.label      "Hitung pesan belum dibaca">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "u">
+<!ENTITY dockIconBadge.label                   "Lencana ikon aplikasi">
+<!ENTITY dockIconShow.label                    "Lencana ikon aplikasi dengan:">
+<!ENTITY directNotificationSettings.label      "Anda dapat mematikan lencana pada panel pemberitahuan di sistem preferensi.">

@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Cari pesan dari:">
+<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "Cari subfolder">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchOnServer.label        "Jalankan pencarian pada server">
+<!ENTITY searchOnServer.accesskey    "u">
+<!ENTITY resetButton.label           "Bersihkan">
+<!ENTITY resetButton.accesskey       "C">
+<!ENTITY openButton.label            "Buka">
+<!ENTITY openButton.accesskey        "n">
+<!ENTITY deleteButton.label          "Hapus">
+<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "Cari Pesan">
+<!ENTITY results.label               "Hasil">
+<!ENTITY moveButton.label            "Pindah ke">
+<!ENTITY moveButton.accesskey        "T">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Buka dalam Folder">
+<!ENTITY openInFolder.accesskey      "r">
+<!ENTITY saveAsVFButton.label        "Simpan sebagai Folder Pencarian">
+<!ENTITY saveAsVFButton.accesskey    "v">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Cari di:">
+<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY propertiesButton.label      "Properti">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "Tulis">
+<!ENTITY composeButton.accesskey     "W">
+<!ENTITY deleteCardButton.label      "Hapus">
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY abSearchDialogTitle.label   "Pencarian Canggih Daftar Alamat">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Thread">
+<!ENTITY fromColumn.label "Dari">
+<!ENTITY recipientColumn.label "Penerima">
+<!ENTITY correspondentColumn.label "Koresponden">
+<!ENTITY subjectColumn.label "Subjek">
+<!ENTITY dateColumn.label "Tanggal">
+<!ENTITY priorityColumn.label "Prioritas">
+<!ENTITY tagsColumn.label "Tag">
+<!ENTITY accountColumn.label "Akun">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Ukuran">
+<!ENTITY junkStatusColumn.label "Status Junk">
+<!ENTITY unreadColumn.label "Belum dibaca">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Baca">
+<!ENTITY receivedColumn.label "Diterima">
+<!ENTITY starredColumn.label "Berbintang">
+<!ENTITY locationColumn.label "Lokasi">
+<!ENTITY idColumn.label "Urut berdasarkan Diterima">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Pilih kolom untuk ditampilkan">
+<!ENTITY threadColumn2.tooltip "Thread tampilan pesan">
+<!ENTITY fromColumn2.tooltip "Urutkan berdasarkan pengirim">
+<!ENTITY recipientColumn2.tooltip "Urutkan berdasarkan penerima">
+<!ENTITY correspondentColumn2.tooltip "Urutkan berdasarkan koresponden">
+<!ENTITY subjectColumn2.tooltip "Urutkan berdasarkan subjek">
+<!ENTITY dateColumn2.tooltip "Urutkan berdasarkan tanggal">
+<!ENTITY priorityColumn2.tooltip "Urutkan berdasarkan prioritas">
+<!ENTITY tagsColumn2.tooltip "Urutkan berdasarkan tag">
+<!ENTITY accountColumn2.tooltip "Urutkan berdasarkan akun">
+<!ENTITY statusColumn2.tooltip "Urutkan berdasarkan status">
+<!ENTITY sizeColumn2.tooltip "Urutkan berdasarkan ukuran">
+<!ENTITY junkStatusColumn2.tooltip "Urutkan berdasarkan status junk">
+<!ENTITY unreadColumn2.tooltip "Jumlah pesan yang belum dibaca dalam thread">
+<!ENTITY totalColumn2.tooltip "Total jumlah pesan dalam thread">
+<!ENTITY readColumn2.tooltip "Urutkan berdasarkan yang telah dibaca">
+<!ENTITY receivedColumn2.tooltip "Urutkan berdasarkan tanggal diterima">
+<!ENTITY starredColumn2.tooltip "Urutkan berdasarkan pesan berbintang">
+<!ENTITY locationColumn2.tooltip "Urutkan berdasarkan lokasi">
+<!ENTITY idColumn2.tooltip "Urutkan berdasarkan pesanan yang diterima">

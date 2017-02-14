@@ -1,0 +1,71 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY folderProps.windowtitle.label           "Keterangan:">
+
+<!ENTITY generalInfo.label                       "Informasi Umum">
+<!ENTITY folderCharsetFallback2.label            "Kembalikan Text Encoding:">
+<!ENTITY folderCharsetFallback2.accesskey        "E">
+<!ENTITY folderCharsetEnforce2.label             "Terapkan encoding untuk semua pesan dalam folder (Pengaturan text encoding pesan individu dan auto-detection akan diabaikan)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Buat Ulang Berkas Indeks ">
+<!ENTITY folderRebuildSummaryFile2.label         "Perbaiki Folder">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Terkadang berkas indeks folder (.msf) rusak dan pesan mungkin tidak terlihat atau pesan yang dihapus masih tampak; proses perbaikan folder mungkin dapat mengatasi masalah ini.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Sertakan pesan pada folder ini pada hasil Pencarian Global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+
+<!ENTITY retention.label "Kebijakan Penyimpanan">
+<!ENTITY retentionUseAccount.label  "Gunakan pengaturan akun saya">
+<!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY daysOld.label "hari">
+<!ENTITY message.label "pesan">
+<!ENTITY retentionCleanup.label "Untuk mengembalikan ruang disk, pesan lama dapat dihapus secara permanen.">
+<!ENTITY retentionCleanupImap.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk salinan yang ada di komputer dan pesan asli yang disimpan di server.">
+<!ENTITY retentionCleanupPop.label "Untuk mengembalikan ruang disk, pesan yang sudah lama dapat dihapus secara permanen, termasuk pesan asli yang disimpan di server.">
+<!ENTITY retentionDeleteMsg.label "Hapus pesan yang lebih dari">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Jangan hapus pesan apa pun">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepRecent.label "Hapus selain yang paling akhir">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionApplyToFlagged.label "Selalu simpan pesan berbintang">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+
+<!ENTITY folderSynchronizationTab.label          "Sinkronisasi">
+<!ENTITY folderCheckForNewMessages2.label         "Periksa pesan baru pada folder ini saat mengambil pesan baru">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+
+<!ENTITY offlineFolder.check.label               "Pilih folder ini untuk penggunaan offline">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label              "Unduh Sekarang">
+<!ENTITY offlineFolder.button.accesskey          "D">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Pilih newsgroup ini untuk penggunaan offline">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY offlineNewsgroup.button.label           "Unduh Sekarang">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
+
+<!ENTITY folderProps.name.label                  "Nama:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Lokasi:">
+<!ENTITY folderProps.location.accesskey          "L">
+
+<!ENTITY folderSharingTab.label                  "Berbagi-pakai">
+<!ENTITY privileges.button.label                 "Hak akses…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Anda mempunyai hak akses berikut:">
+<!ENTITY folderType.label                        "Jenis Folder:">
+
+<!ENTITY folderQuotaTab.label                    "Kuota">
+<!ENTITY folderQuotaRoot.label                   "Kuota Dasar:">
+<!ENTITY folderQuotaUsage.label                  "Penggunaan:">
+<!ENTITY folderQuotaStatus.label                 "Status:">
+
+<!ENTITY numberOfMessages.label                  "Jumlah pesan:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "tidak diketahui">
+<!ENTITY sizeOnDisk.label                        "Ukuran dalam disk:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "tidak diketahui">

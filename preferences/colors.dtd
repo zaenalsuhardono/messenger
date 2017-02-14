@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "Warna">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  overridePageColors.label        "Beri warna pada konten dengan warna yang dipilih:">
+<!ENTITY  overridePageColors.accesskey    "O">
+
+<!ENTITY  overridePageColors.always.label "Selalu">
+<!ENTITY  overridePageColors.auto.label   "Hanya dengan Tema Kontras Tinggi">
+<!ENTITY  overridePageColors.never.label  "Tidak Pernah">
+
+<!ENTITY  color                           "Teks dan Latar belakang">
+<!ENTITY  textColor.label                 "Teks:">
+<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  backgroundColor.label           "Latar belakang:">
+<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  useSystemColors.label           "Gunakan sistem warna">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "Garis bawahi tautan">
+<!ENTITY  underlineLinks.accesskey        "U">
+<!ENTITY  links                           "Warna tautan">
+<!ENTITY  linkColor.label                 "Tautan yang belum dikunjungi:">
+<!ENTITY  linkColor.accesskey             "L">
+<!ENTITY  visitedLinkColor.label          "Tautan yang dikunjungi:">
+<!ENTITY  visitedLinkColor.accesskey      "V">
